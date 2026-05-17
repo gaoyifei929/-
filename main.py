@@ -10,7 +10,7 @@
     3. pip install -r requirements.txt
 """
 
-VERSION = "0.7.3"
+VERSION = "0.7.5"
 
 import asyncio
 import logging
