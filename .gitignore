@@ -1,0 +1,12 @@
+.env
+logs/
+temp/
+data/
+__pycache__/
+*.pyc
+*.log
+test_*.py
+.claude/
+memory/
+设计一图流.png
+聊天记录测试.txt
